@@ -1,0 +1,27 @@
+
+.b1{
+align-items: baseline;
+    height: 40px;
+    border-radius: 10%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 245, 245);
+    margin-right:50px;
+    cursor: pointer;
+}
+.b2{
+    height: 40px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.b3{
+    height: 40px;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-right: 40px;
+    align-self: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-bottom: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
